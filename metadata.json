@@ -1,0 +1,6 @@
+{
+  "name": "Monk",
+  "description": "A premium minimal dark finance companion designed for students and creators with streaks, insights, and financial damage reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
