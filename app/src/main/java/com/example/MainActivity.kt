@@ -101,7 +101,7 @@ fun MonkAppContent(viewModel: FinanceViewModel) {
                 Box(
                     modifier = Modifier
                         .align(Alignment.BottomCenter)
-                        .padding(bottom = 16.dp)
+                        .padding(bottom = 8.dp)
                         .navigationBarsPadding() // gesture pill overlap protection!
                         .widthIn(max = 420.dp)
                         .fillMaxWidth(0.92f)
